@@ -1,2 +1,2 @@
-# to-do-list
-simple to-do-list web
+# a simple to do list website
+
